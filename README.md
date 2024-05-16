@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancy2927&label=Profile%20views&color=0e75b6&style=flat" alt="nancy2927" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy2927" alt="nancy2927" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript & ReactJs**
 
 - 📝 I regularly write articles on [https://medium.com/@raj29may1990](https://medium.com/@raj29may1990)
